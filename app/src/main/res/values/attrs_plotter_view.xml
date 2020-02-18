@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="PlotterView">
+        <attr name="textDimension" format="dimension" />
+        <attr name="textColor" format="color" />
+    </declare-styleable>
+</resources>
